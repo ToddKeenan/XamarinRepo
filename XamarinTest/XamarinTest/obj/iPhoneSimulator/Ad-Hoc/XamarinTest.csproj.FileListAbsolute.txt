@@ -1,0 +1,14 @@
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\XamarinTest.exe
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.Analytics.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.Crashes.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\bin\iPhoneSimulator\Ad-Hoc\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\actool\_PartialAppManifest.items
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\actool\_BundleResourceWithLogicalName.items
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\optimized\
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\XamarinTest.csprojResolveAssemblyReference.cache
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\XamarinTest.csproj.CoreCompileInputs.cache
+C:\Users\KEENANT\source\repos\XamarinRepo\XamarinTest\XamarinTest\obj\iPhoneSimulator\Ad-Hoc\XamarinTest.exe
