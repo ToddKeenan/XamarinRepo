@@ -1,5 +1,8 @@
 ﻿using Foundation;
 using UIKit;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace XamarinTest
 {
@@ -19,9 +22,11 @@ namespace XamarinTest
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
             // Override point for customization after application launch.
-			// If not required for your application you can safely delete this method
+            // If not required for your application you can safely delete this method
+            AppCenter.Start("cfea95de-66d0-4a71-8ac2-08dd01736b36",
+                   typeof(Analytics), typeof(Crashes));
 
-			return true;
+            return true;
 		}
 
 		public override void OnResignActivation (UIApplication application)
