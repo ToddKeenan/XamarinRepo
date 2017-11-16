@@ -27,8 +27,8 @@ Global
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhone.Build.0 = Debug|iPhone
-		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
-		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Debug|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Release|iPhone.ActiveCfg = Release|iPhone
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Release|iPhone.Build.0 = Release|iPhone
 		{56B4F6E6-4D8F-4EBC-9ECC-85FD29A9D7FB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
